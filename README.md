@@ -28,23 +28,22 @@
 </a>
 </div>
 
-## 👹 Sobre Mim
-- 🔧 Aprendiz de Python e automação  - 
-- 🖥️ Focado em resolver problemas com código  -
+### 👹 Sobre Mim
+- 🔧 Aprendiz de Python e automação  
+- 🖥️ Focado em resolver problemas com código
+- (Fan de Ultrakill)
 
 ##
 <div align="center">
 <img align="center" alt="kerll-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
 <img align="center" alt="kerll-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-          <br>
-<img align="center" alt="kerll-python" height="40" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />        
+      
 
 </div>
 
 <br>
-<p align="center">
-    <a href="#"><img src="https://komarev.com/ghpvc/?username=Kerll-Saam&style=for-the-badge&label=Views:&color=ba0000"/></a>
-    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/Kerll-Saam?color=ba0000&labelColor=ffffff&style=for-the-badge&logo=person-add&label=Follows&logoColor=black"/></a>
-</p>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Kerll-Saam.SEU_REPO&left_color=black&right_color=black)
+
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ba0000&reversal=true&descSize=5&descAlign=0&descAlignY=34&section=footer&fontAlignY=2&fontAlign=0"/></a>
