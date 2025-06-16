@@ -31,7 +31,7 @@
 ### 👹 Sobre Mim
 - 🔧 Aprendiz de Python e automação  
 - 🖥️ Focado em resolver problemas com código
-- (Fan de Ultrakill)
+- (Fã de Ultrakill)
 
 ##
 <div align="center">
