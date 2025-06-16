@@ -13,19 +13,24 @@
 
 <div align="center">
 <a href="mailto:kerllonsousa2009@gmail.com">           
-<img src="https://img.shields.io/badge/Gmail-710C04?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+<img src="https://img.shields.io/badge/Gmail-710C04?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+          
 <a href="https://www.instagram.com/karro_typer/?igsh=dnFxNmZ1azc1dWk3#">
 <img src="https://img.shields.io/badge/Instagram-710C04?style=for-the-badge&logo=instagram&logoColor=white"alt="Instagram">
 </a>
-  <br>
+
+<br>
+
 <a href="https://discord.com/users/seu-id">
-<img src="https://img.shields.io/badge/Discord-710C04?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-</a>
+<img src="https://img.shields.io/badge/Discord-710C04?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 <a href="https://www.roblox.com/pt/users/4523493900/profile">
 <img src="https://img.shields.io/badge/Roblox-710C04?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox">
 </a>
 </div>
+
+## 👹 Sobre Mim
+- 🔧 Aprendiz de Python e automação  - 
+- 🖥️ Focado em resolver problemas com código  -
 
 ##
 <div align="center">
@@ -39,7 +44,7 @@
 
 <br>
 <p align="center">
-    <a href="#"><img src="https://komarev.com/ghpvc/?username=Kerll-Saam&style=for-the-badge&label=Views:&color=000000"/></a>
-    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/Kerll-Saam?color=000000&labelColor=ffffff&style=for-the-badge&logo=person-add&label=Follows&logoColor=black"/></a>
+    <a href="#"><img src="https://komarev.com/ghpvc/?username=Kerll-Saam&style=for-the-badge&label=Views:&color=ba0000"/></a>
+    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/Kerll-Saam?color=ba0000&labelColor=ffffff&style=for-the-badge&logo=person-add&label=Follows&logoColor=black"/></a>
 </p>
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ba0000&reversal=true&descSize=5&descAlign=0&descAlignY=34&section=footer&fontAlignY=2&fontAlign=0"/></a>
