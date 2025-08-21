@@ -28,10 +28,10 @@
 </a>
 </div>
 
-### 👹 Sobre Mim
+### Sobre Mim
 - 🔧 Aprendiz de Python e automação  
 - 🖥️ Focado em resolver problemas com código
-- (Fã de Ultrakill)
+- Desenvolvedor de Software
 
 ##
 <div align="center">
