@@ -28,10 +28,6 @@
 </a>
 </div>
 
-### Sobre Mim
-- 🔧 Aprendiz de Python e automação  
-- 🖥️ Focado em resolver problemas com código
-- Desenvolvedor de Software
 
 ##
 <div align="center">
