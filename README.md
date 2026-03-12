@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  Meu nome è Kerllon Sousa Sampaio,
+  Meu nome é Kerllon Sousa Sampaio, irei completar meus 17 anos e descobri minha paixão na aréa de TI e cybersegurança
 </p>
 
 
