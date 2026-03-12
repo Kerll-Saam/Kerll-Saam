@@ -41,18 +41,20 @@
 
 
 ##
-<div align="left">
-          Línguagens
-</div>
 
 <div align="center">
+Líguagens
 <img align="center" alt="kerll-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-
 <img align="center" alt="kerll-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-      
-
 </div>
 
+##
+
+<div align="center">
+  Ferramentas
+<img align="center" alt="kerll-python" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Arch-Dark.svg" />
+          <img align="center" alt="kerll-python" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Kali-Dark.svg" />
+</div>
 <br>
 
 
