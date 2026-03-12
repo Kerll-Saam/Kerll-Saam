@@ -2,7 +2,6 @@
 <a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=ba0000&fontColor=ffffff&fontAlign=10&fontAlignY=30&fontSize=10"/></a>
 <div align="center">
           
-![1269318](https://avatarfiles.alphacoders.com/335/thumb-150-335634.png)
 
 
 </div>
