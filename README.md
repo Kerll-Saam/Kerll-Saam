@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  Ano retrasado mergulhei de cabeça nos estudos em Ti pois sempre adimirei essa parte de maquinas e redes, atualmente estou estudando sobre Sistemas de Rede e Desenvolvimento de Software
+  Ano retrasado mergulhei de cabeça nos estudos em Ti pois sempre adimirei essa parte de maquinas e redes, atualmente estou estudando sobre Sistemas de Rede e Desenvolvimento de Software. Um dos meus projetos principais atualmente esta sendo uma API com o software WireShark e Python que intercepita trafégos de redes e IP's suspeitos em minha rede Wifi, filtrando e mandando os ip's para um arquivo .txt.
   </p>
 
 
