@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  Ano retrasado mergulhei de cabeça nos estudos em Ti pois sempre adimirei essa parte de maquinas e redes, atualmente esotu estudando sobre Sistemas de Rede e Dessenvolvimento de Software
+  Ano retrasado mergulhei de cabeça nos estudos em Ti pois sempre adimirei essa parte de maquinas e redes, atualmente estou estudando sobre Sistemas de Rede e Desenvolvimento de Software
   </p>
 
 
