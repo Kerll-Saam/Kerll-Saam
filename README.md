@@ -19,7 +19,7 @@
 
 
 <p align="center">
-  Ano retrasado mergulhei de cabeça nos estudos em Ti pois sempre adimirei essa parte de maquinas e redes. Atualmente focado e estudando sobre Sistemas de Rede e Desenvolvimento de Software, desenvolvi uma ferramenta em Python integrada ao Wireshark para monitoramento de tráfego em tempo real, capaz de identificar e logar IPs suspeitos em redes Wi-Fi, visando a segurança e integridade de redes doméstica.
+  Ano retrasado mergulhei de cabeça nos estudos em Ti pois sempre adimirei essa parte de maquinas e redes. Atualmente focado e estudando sobre Sistemas de Rede e Desenvolvimento de Software, desenvolvi uma ferramenta em Python integrada ao Wireshark para monitoramento de tráfego em tempo real, capaz de identificar e logar IPs suspeitos em redes Wi-Fi, visando a segurança e integridade de redes.
   </p>
 
 ##
@@ -46,14 +46,16 @@
 Líguagens
 <img align="center" alt="kerll-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="center" alt="kerll-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="center" alt="kerll-python" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Bash-Dark.svg" />
 </div>
 
 ##
 
 <div align="center">
-  Ferramentas
-<img align="center" alt="kerll-python" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Arch-Dark.svg" />
-          <img align="center" alt="kerll-python" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Kali-Dark.svg" />
+Ferramentas
+<img align="center" alt="kerll-python" height="35" width="35" src="https://raw.githubusercontent.com/boundary/wireshark/refs/heads/master/image/wireshark.ico" />
+<img align="center" alt="kerll-python" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/Kali-Dark.svg" />
+<img align="center" alt="kerll-python" height="40" width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/7f7e691e71aec64e8354bf697835e009d1ad80f8/icons/VisualStudio-Dark.svg" />
 </div>
 <br>
 
