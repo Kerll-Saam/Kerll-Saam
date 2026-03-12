@@ -3,7 +3,6 @@
 <div align="center">
           
 
-
 </div>
 
 <div align="center">
@@ -11,15 +10,19 @@
 
 </div>
 
+##
+
 <p align="center">
   Meu nome é Kerllon Sousa Sampaio, irei completar meus 17 anos e moro na cidade de São José dos Campos. Vou terminar o ensino médio esse ano e ingressar no mercado de trabalho.
 </p>
 
+
+
 <p align="center">
-  Ano retrasado mergulhei de cabeça nos estudos em Ti pois sempre adimirei essa parte de maquinas e redes, atualmente estou estudando sobre Sistemas de Rede e Desenvolvimento de Software. Um dos meus projetos principais atualmente esta sendo uma API com o software WireShark e Python que intercepita trafégos de redes e IP's suspeitos em minha rede Wifi, filtrando e mandando os ip's para um arquivo .txt.
+  Ano retrasado mergulhei de cabeça nos estudos em Ti pois sempre adimirei essa parte de maquinas e redes. Atualmente focado e estudando sobre Sistemas de Rede e Desenvolvimento de Software, desenvolvi uma ferramenta em Python integrada ao Wireshark para monitoramento de tráfego em tempo real, capaz de identificar e logar IPs suspeitos em redes Wi-Fi, visando a segurança e integridade de redes doméstica.
   </p>
 
-
+##
 
 <div align="center">
 <a href="mailto:kerllonsousa2009@gmail.com">           
@@ -33,14 +36,15 @@
 
 <a href="https://discord.com/users/seu-id">
 <img src="https://img.shields.io/badge/Discord-5a5b66?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
-<a href="https://www.roblox.com/pt/users/4523493900/profile">
-          
-<img src="https://img.shields.io/badge/Roblox-5a5b66?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox">
 </a>
 </div>
 
 
 ##
+<div align="left">
+          Línguagens
+</div>
+
 <div align="center">
 <img align="center" alt="kerll-python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
