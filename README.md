@@ -13,10 +13,12 @@
 
 <p align="center">
   Meu nome é Kerllon Sousa Sampaio, irei completar meus 17 anos e moro na cidade de São José dos Campos. Vou terminar o ensino médio esse ano e ingressar no mercado de trabalho.
-
-  Ano retrasado mergulhei de cabeça nos estudos em Ti pois sempre adimirei essa parte do mercado, atualmente esotu estudando sobre Sistemas de Rede e Dessenvolvimento de Software
-  
 </p>
+
+<p align="center">
+  Ano retrasado mergulhei de cabeça nos estudos em Ti pois sempre adimirei essa parte de maquinas e redes, atualmente esotu estudando sobre Sistemas de Rede e Dessenvolvimento de Software
+  </p>
+
 
 
 <div align="center">
