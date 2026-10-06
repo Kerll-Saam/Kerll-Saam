@@ -1,6 +1,5 @@
 ---
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=125&color=D3D3FF&fontColor=ffffff&fontAlign=10&fontAlignY=30&fontSize=10"/></a>
-<div align="center">
+
           
 
 </div>
