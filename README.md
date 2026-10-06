@@ -13,7 +13,9 @@
 ##
 
 <p align="center">
-  Meu nome é Kerllon Sousa Sampaio, irei completar meus 17 anos e moro na cidade de São José dos Campos. Vou terminar o ensino médio esse ano e ingressar no mercado de trabalho.
+  Sou estudante de Engenharia de Software e desenvolvedor em formação,
+com interesse em **Desenvolvimento de Software, Redes e Segurança da Informação**.
+
 </p>
 
 
