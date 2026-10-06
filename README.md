@@ -13,18 +13,23 @@
 
 <p align="center">
   Sou estudante de Engenharia de Software e desenvolvedor em formação,
-com interesse em __Desenvolvimento de Software, Redes e Segurança da Informação__.
+com interesse em Desenvolvimento de Software, Redes e Segurança da Informação.
 
 </p>
 
 
 
 <p align="center">
- Atualmente estudo principalmente **C#, Python e desenvolvimento de aplicações**,
+ Atualmente estudo principalmente C#, Python e desenvolvimento de aplicações,
 enquanto aprofundo meus conhecimentos em Linux, redes e ferramentas de análise
 de tráfego.
 
   </p>
+  <p align="center">
+            Também desenvolvo projetos próprios para colocar esses conhecimentos em prática,
+incluindo uma ferramenta em Python integrada ao Wireshark para análise de tráfego
+e identificação de possíveis IPs suspeitos em redes Wi-Fi.
+  </p>          
 
 ##
 
