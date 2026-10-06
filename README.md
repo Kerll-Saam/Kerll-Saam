@@ -20,7 +20,10 @@ com interesse em **Desenvolvimento de Software, Redes e Segurança da Informaç�
 
 
 <p align="center">
-  No ano de 2024 mergulhei de cabeça nos estudos em Ti pois sempre admirei essa parte de maquinas e redes. Atualmente focado e estudando sobre Sistemas de Rede e Desenvolvimento de Software, desenvolvi uma ferramenta em Python integrada ao Wireshark para monitoramento de tráfego em tempo real, capaz de identificar e logar IPs suspeitos em redes Wi-Fi, visando a segurança e integridade de redes.
+ Atualmente estudo principalmente **C#, Python e desenvolvimento de aplicações**,
+enquanto aprofundo meus conhecimentos em Linux, redes e ferramentas de análise
+de tráfego.
+
   </p>
 
 ##
