@@ -61,4 +61,3 @@ Ferramentas
 <br>
 
 
-<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D3D3FF&reversal=true&descSize=5&descAlign=0&descAlignY=34&section=footer&fontAlignY=2&fontAlign=0"/></a>
