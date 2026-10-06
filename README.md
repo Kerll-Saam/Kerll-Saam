@@ -13,7 +13,7 @@
 
 <p align="center">
   Sou estudante de Engenharia de Software e desenvolvedor em formação,
-com interesse em **Desenvolvimento de Software, Redes e Segurança da Informação**.
+com interesse em __Desenvolvimento de Software, Redes e Segurança da Informação__.
 
 </p>
 
